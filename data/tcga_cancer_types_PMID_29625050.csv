@@ -1,0 +1,34 @@
+DISEASE_CODE;DISEASE;DISEASE_TYPE;DISEASE_TYPE_COLOUR;DISEASE_CODE_COLOUR
+BRCA;Breast cancer;Breast;#9F0045;#E51784
+GBM;Glioblastoma multiforme;CNS;#935989;#B64894
+LGG;Lower Grade Glioma;CNS;#935989;#DAA5CC
+COAD;Colon adenocarcinoma;Core GI;#4876A9;#34ABE2
+READ;Rectal adenocarcinoma;Core GI;#4876A9;#34ABE2
+STAD;Stomach adenocarcinoma;Core GI;#4876A9;#007AB5
+ESCA;Esophageal cancer;Core GI;#4876A9;#007AB5
+LIHC;Liver hepatocellular carcinoma;Developmental GI tract;#0C194E;#0F4079
+PAAD;Pancreatic ductal adenocarcinoma;Developmental GI tract;#0C194E;#727BA5
+CHOL;Cholangiocarcinoma;Developmental GI tract;#0C194E;#D5D4E1
+ACC;Adrenocortical carcinoma;Endocrine;#CBC766;#C5AA04
+THCA;Papillary thyroid carcinoma;Endocrine;#CBC766;#FBEA10
+PCPG;Pheochromocytoma & Paraganglioma;Endocrine;#CBC766;#E9C600
+UVM;Uveal melanoma;Eye;#006415;#A4D0A8
+CESC;Cervical cancer;Gynecologic;#DB9929;#F5BA61
+OV;Ovarian serous cystadenocarcinoma;Gynecologic;#DB9930;#DA7908
+UCS;Uterine carcinosarcoma;Gynecologic;#DB9931;#FCE8CF
+UCEC;Uterine corpus endometrial carcinoma;Gynecologic;#DB9932;#F49200
+HNSC;Head and neck squamous cell carcinoma;Head & Neck;#73B089;#008C36
+LAML;Acute Myeloid Leukemia;Heme;#7A461C;#7E4E23
+DLBC;Diffuse large B-cell lymphoma;Heme;#7A461C;#3D4899
+THYM;Thymoma;Thymus;#9A6462;#D5B293
+SKCM;Cutaneous melanoma;Skin;#5A9E4C;#C4D226
+SARC;Sarcoma;Soft Tissue;#005041;#00A499
+LUAD;Lung adenocarcinoma;Thoracic;#A290B1;#52217C
+LUSC;Lung squamous cell carcinoma;Thoracic;#A290B1;#AA87BD
+MESO;Mesothelioma;Thoracic;#A290B1;#DACBE5
+KICH;Chromophobe renal cell carcinoma;Genitourinary;#B84C4A;#E86971
+KIRC;Clear cell kidney carcinoma;Genitourinary;#B84C4A;#BD1420
+KIRP;Papillary kidney carcinoma;Genitourinary;#B84C4A;#F7B5BC
+PRAD;Prostate adenocarcinoma;Genitourinary;#B84C4A;#82160C
+BLCA;Urothelial bladder cancer;Genitourinary;#B84C4A;#F9D9E1
+TGCT;Testicular germ cell cancer;Genitourinary;#B84C4A;#BD1420
